@@ -27,7 +27,7 @@ else:
     exit()
 soup = BeautifulSoup(response.text, "html.parser")
 # ---------------------------------------------------------
-# Отримання списку підрозділів (клубів) -> TXT та XML
+# Отримання списку підрозділів (клубів) TXT та XML
 # ---------------------------------------------------------
 clubs = []
 club_tags = soup.select("a[href*='/clubs/view/']")
@@ -51,7 +51,7 @@ tree = ET.ElementTree(root)
 tree.write("categories.xml", encoding="utf-8", xml_declaration=True)
 print(f"=== Збережено клубів: {len(clubs)} (у categories.txt та categories.xml) ===")
 # ---------------------------------------------------------
-# Збір об'єктів (гравців/персоналу) з кожної сторінки -> TXT та JSON
+# Збір об'єктів (гравців/персоналу) з кожної сторінки TXT та JSON
 # ---------------------------------------------------------
 all_players = []
 images_to_download = []
