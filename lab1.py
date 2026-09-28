@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 import requests
 from bs4 import BeautifulSoup
 # ---------------------------------------------------------
-# Завдання 1: URL джерела даних (Українська Прем'єр-Ліга)
+# URL джерела даних (Українська Прем'єр-Ліга)
 # ---------------------------------------------------------
 BASE_URL = "https://upl.ua/ua"
 HEADERS = {
