@@ -1,0 +1,772 @@
+[
+    {
+        "club": "Буковина",
+        "player_name": "Федір Бабак",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Нікіта Балан",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Вадим Бачинський",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Микита Безуглий",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Богдан Бойчук",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Андрій Бусько",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Вадим Вітенчук",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Деніс Влад",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Данієл Влад",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Євгеній Волошин",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Мор Талла Гає",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Роберт Газазян",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Назар Гамолов",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Роман Горенко",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Віталій Груша",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Ренат Дадашов",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Віталій Дахновський",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Ренат Дубовик",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Одінака Едвін",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Максим Задерака",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Олег Ільїн",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Данило Каневцев",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Данило Карась",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Сергій Кіблицький",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Міхаел Клепач",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Олег Кожушко",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Данило Кравчук",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Марко Мартинюк",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Святослав Матяш",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Артем Мацюк",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Тимур Нянчур",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Олексій Орлов",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Герман Пеньков",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Владислав Петров",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Євген Підлепенець",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Владислав Приймак",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Ілля Путря",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Едуард Романець",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Тарас Саків",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Владислав Скіцко",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Дмитрій Скочеляс",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Петро Стасюк",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Дмитро Стецюра",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Вячеслав Танковський",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Валентин Ткач",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Теймур Халілов",
+        "image_url": ""
+    },
+    {
+        "club": "Буковина",
+        "player_name": "Максим Яхонтов",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Микита Александров",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Павло Багрій",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Ростислав Баран",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Натанаель Дейн Блер",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Віталій Бойко",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Антон Видрич",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Семен Вовченко",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Назарій Гащак",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Валентин Горох",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Роман Гриценко",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Веслі Да Консейсао Дуарте Морейра",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Гільєрме Де Хесус Ліма",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Ярослав Довженко",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Вадим Домантович",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Юрій Курант",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Владислав Липак",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Матвій Мальований",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Вадим Мацан",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Станіслав Мігуцький",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Давид Нійо",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Фабрісіо Ян Пейшото Баррос Лімейра",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Андре Перейра Гонсалвеш",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Максим Пилипей",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Михайло Протасевич",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Ростислав Ревакович",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Владислав Сайчишин",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Вадим Самков",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Іван Саноцький",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Максим Сміян",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Андрій Віктор Соуза Сантос",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Константінос Стамуліс",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Павло Стефанюк",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Нікіта Тютюнник",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Аладжі Уоллі",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Ігор Харатін",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Олександр Харечко",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Вадим Хомич",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Лука Хохашвілі",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Кай Ціпот",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Даниїл Чечер",
+        "image_url": ""
+    },
+    {
+        "club": "Верес",
+        "player_name": "Владислав Шарай",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Іван Андрейко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Кеассе Поль Анрі Ба",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Андріан Бекерський",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Крістіан Біловар",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Володимир Бражко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Ярослав Буравцов",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Георгій Бущан",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Віталій Буяльський",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Костянтин Вівчаренко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Владислав Володько",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Назар Волошин",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Фатаву Ганіву",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Едуардо Антоніо Герреро Локано",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Костянтин Губенко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Даніель Дехтяр",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Денис Дикий",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Олександр Драган",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Владислав Дубінчак",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Данило Єрмак",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Денис Жданов",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Владислав Захарченко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Назар Іваськів",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Данило Іщенко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Владислав Кабаєв",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Томаш Кароль Кедзьора",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Дмитро Коновалов",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Максим Коробов",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Віталій Лобко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Джастін Антоніус Лонвейк",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Павло Люсін",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Навін Малиш",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Борис Манько",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Тарас Михавко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Микола Михайленко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "П'єр Мунгенге",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Руслан Нещерет",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Данило Огороднік",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Елайджа Шола Огундана",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Володимир Озимай",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Ілля Ольховий",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Кирило Осипенко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Кирило Пашко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Олександр Піхальонок",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Матвій Пономаренко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Денис Попов",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Густаво Прадо Алвес",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Богдан Редушко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Олексій Рибак",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Максим Роєнко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Мирослав Романюк",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Валентин Рубчинський",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Усман Саване",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Роман Саленко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Олексій Сич",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Владислав Супряга",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Вячеслав Суркіс",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Олександр Тимчик",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Аліу Тіаре",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Арсеній Федоренко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Микола Шапаренко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Андрій Ярмоленко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Владислав Герич",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Олексій Гусєв",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Володимир Квіквінія",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Дмитро Костенко",
+        "image_url": ""
+    },
+    {
+        "club": "Динамо",
+        "player_name": "Дмитро Панімаш",
+        "image_url": ""
+    }
+]
